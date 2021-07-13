@@ -6,7 +6,7 @@
 create table "demo"."demo_table2" (
     "demo_column3" varchar(150) NOT NULL,
     "demo_column4" varchar(32) NOT NULL,
-    "demo_column5" Datetime,
+    "demo_column5" Date,
     "demo_column6" varchar(50) NOT NULL,
     "demo_column7" varchar(50) NOT NULL
 );

@@ -8,7 +8,7 @@
     <!--include file="releases/db.changelog-v000-tag.sql"/-->
     <include file="releases/db.changelog-v001-schema.xml"/>
     <!--include file="releases/db.changelog-v001-tag.sql"/-->
-    <!--include file="releases/db.changelog-v002-schema.xml"/-->
+    <include file="releases/db.changelog-v002-schema.xml"/>
     <!--include file="releases/db.changelog-v002-tag.sql"/-->
     
 </databaseChangeLog>
